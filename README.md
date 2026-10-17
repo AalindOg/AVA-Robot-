@@ -23,7 +23,7 @@ AVA is a wheeled AI companion with a touchscreen, camera, speaker, sensors and m
 
 ## Hardware
 
-The custom carrier board (v1, design stage) manages power and drive:
+The custom carrier board (v1, routed) manages power and drive:
 
 - **Power:** 2S LiPo → slide switch → 5A polyfuse → 5V/5A buck module → SBC + logic
 - **Drive:** TB6612FNG dual motor driver (motor rails run straight off the battery)
@@ -34,7 +34,11 @@ Files:
 
 - [`hardware/ava-carrier.kicad_sch`](hardware/ava-carrier.kicad_sch) — KiCad schematic (v1)
 - [`hardware/ava-carrier-schematic.pdf`](hardware/ava-carrier-schematic.pdf) — printable render
+- [`hardware/ava-carrier.kicad_pcb`](hardware/ava-carrier.kicad_pcb) — KiCad routed PCB (60 x 40 mm, 2-layer, DRC-clean)
+- [`hardware/fabrication/ava-carrier-v1-gerbers.zip`](hardware/fabrication/ava-carrier-v1-gerbers.zip) — fabrication package (Gerbers + Excellon drill)
 - [`bom.csv`](bom.csv) — bill of materials
+
+![Routed carrier board](images/pcb-top.png)
 
 ## Firmware (XIAO ESP32-S3 Sense)
 
@@ -65,7 +69,8 @@ python3 ava_server_v2.py   # ws://0.0.0.0:5013
 ```
 ├── firmware/        # PlatformIO firmware for the XIAO ESP32-S3 Sense
 ├── server/          # WebSocket audio receiver + Whisper + intelligence engine
-├── hardware/        # Carrier board schematic (KiCad)
+├── hardware/        # Carrier board: KiCad schematic + routed PCB + gerbers
+│   └── fabrication/ # Gerber + drill fabrication package (zip)
 ├── images/          # CAD renders and build photos
 ├── bom.csv          # Carrier board bill of materials
 ├── BOM.md           # Parts funding tracker (mirrored from Half Life)
