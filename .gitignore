@@ -1,0 +1,9 @@
+# secrets & personal data
+firmware/**/secrets.h
+server/recordings/
+server/intel.db
+server/people.json
+server/models/
+**/__pycache__/
+server/venv/
+*.pyc

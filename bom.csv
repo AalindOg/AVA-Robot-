@@ -1,0 +1,15 @@
+Ref,Qty,Value,Part,Footprint,Notes
+J1,1,LiPo 2S Input,JST-PH B2B-PH-K (2 pos),Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,7.4V 2S battery input
+SW1,1,Power Switch,CK OS102011 slide switch,Button_Switch:SW_Slide_1P2T_CK_OS102011MA1QN1,Main power
+F1,1,Polyfuse 5A,Raychem miniSMDC050 or equiv,Resistor:R_Axial_DIN0207,Resettable fuse on VBAT
+U1,1,Buck 5V/5A,Mini-560 style buck module (socket),Connector:PinHeader_1x04_P2.54mm_Vertical,VBAT to +5V; powers SBC + logic
+U2,1,TB6612FNG Motor Driver,TB6612FNG breakout module (socket),Connector:PinHeader_2x08_P2.54mm_Vertical,Dual 1.2A motor driver; VM=VBAT
+U3,1,XIAO ESP32-S3 Sense,Seeed Studio XIAO ESP32-S3 Sense,Module:SeeedStudio_XIAO_ESP32-S3_Socket,Audio bridge + IMU + motor control GPIOs
+J2,1,Motor A,JST-PH B2B-PH-K (2 pos),Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,Left drive motor
+J3,1,Motor B,JST-PH B2B-PH-K (2 pos),Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,Right drive motor
+J4,1,I2C Expansion,JST-SH BM04B-SRSS-TB (4 pos),Connector_JST:JST_SH_BM04B-SRSS-TB_1x04_P1.00mm_Vertical,Qwiic-style: 3V3 GND SDA SCL
+J5,1,SBC 5V Feed,JST-VH B2P-VH (2 pos),Connector_JST:JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical,5V power to single-board computer
+R1,1,1k,1kOhm 1/4W resistor,Resistor:R_Axial_DIN0207,LED series resistor (+5V rail)
+R2,1,1k,1kOhm 1/4W resistor,Resistor:R_Axial_DIN0207,LED series resistor (VBAT rail)
+D1,1,LED +5V,Green LED 3mm,LED:LED_D3.0mm,5V rail indicator
+D2,1,LED VBAT,Red LED 3mm,LED:LED_D3.0mm,Battery rail indicator
