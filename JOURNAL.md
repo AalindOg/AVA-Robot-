@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-09T14:02:07.377Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvm2sbe00a201o9hqwupp07). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > AVA is a mobile AI robot powered by Hermes Agent. It combines a touchscreen, cameras, speakers, sensors, motors, and a custom electronics system inside a 3D-printed enclosure. Hermes acts as the robot's intelligent agent, while AVA provides the physical body and hardware interface, allowing the AI to perceive its environment, communicate with users, and control the robot's movement and peripherals.
 
