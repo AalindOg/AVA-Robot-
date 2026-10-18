@@ -1,0 +1,39 @@
+component_instance,quantity,category,notes
+tire-right,1,visual CAD component; NOT purchase BOM,Visual tire; material and traction not tested
+hub-right,1,visual CAD component; NOT purchase BOM,No motor-shaft fit specified
+hub-cap-right,1,visual CAD component; NOT purchase BOM,
+tire-left,1,visual CAD component; NOT purchase BOM,Visual tire; material and traction not tested
+hub-left,1,visual CAD component; NOT purchase BOM,No motor-shaft fit specified
+hub-cap-left,1,visual CAD component; NOT purchase BOM,
+antenna-left,1,visual CAD component; NOT purchase BOM,Cosmetic paddle; no RF design
+antenna-inlay-left,1,visual CAD component; NOT purchase BOM,
+antenna-right,1,visual CAD component; NOT purchase BOM,Cosmetic paddle; no RF design
+antenna-inlay-right,1,visual CAD component; NOT purchase BOM,
+head-front-bezel,1,visual CAD component; NOT purchase BOM,Open at back; fasteners/latches not designed
+head-rear-shell,1,visual CAD component; NOT purchase BOM,Closed roof and rear; no internal electronics mounts
+screen-placeholder,1,visual CAD component; NOT purchase BOM,"Visual solid only, not a selected display"
+speaker-ring-right,1,visual CAD component; NOT purchase BOM,
+speaker-grille-right,1,visual CAD component; NOT purchase BOM,"Perforated cosmetic grille, not acoustic engineering"
+speaker-backing-right,1,visual CAD component; NOT purchase BOM,
+speaker-ring-left,1,visual CAD component; NOT purchase BOM,
+speaker-grille-left,1,visual CAD component; NOT purchase BOM,"Perforated cosmetic grille, not acoustic engineering"
+speaker-backing-left,1,visual CAD component; NOT purchase BOM,
+sensor-small,1,visual CAD component; NOT purchase BOM,Unspecified visual sensor aperture
+sensor-lens,1,visual CAD component; NOT purchase BOM,Unspecified visual sensor aperture
+top-sensor-puck,1,visual CAD component; NOT purchase BOM,Cosmetic sensor housing; board and connector not selected
+drive-axle-left,1,visual CAD component; NOT purchase BOM,Conceptual axle only; motor and bearing interfaces are not designed
+drive-axle-right,1,visual CAD component; NOT purchase BOM,Conceptual axle only; motor and bearing interfaces are not designed
+chest-sensor-ring,1,visual CAD component; NOT purchase BOM,
+chest-sensor-glass,1,visual CAD component; NOT purchase BOM,"Visual part, camera model not selected"
+chest-sensor-backing,1,visual CAD component; NOT purchase BOM,
+status-indicator,1,visual CAD component; NOT purchase BOM,
+side-pod-left,1,visual CAD component; NOT purchase BOM,Exterior appendage only
+side-pod-right,1,visual CAD component; NOT purchase BOM,Exterior appendage only
+body-trim-left,1,visual CAD component; NOT purchase BOM,Separate styling strip
+body-trim-right,1,visual CAD component; NOT purchase BOM,Separate styling strip
+body-front-shell,1,visual CAD component; NOT purchase BOM,Exterior shell with no verified internal packaging
+body-rear-shell,1,visual CAD component; NOT purchase BOM,Removable-style back; attachment still to be engineered
+caster-wheel-left,1,visual CAD component; NOT purchase BOM,Twin support wheel; bearing fits not specified
+caster-wheel-right,1,visual CAD component; NOT purchase BOM,Twin support wheel; bearing fits not specified
+caster-fork,1,visual CAD component; NOT purchase BOM,"Geometric fork only, swivel and attachment not engineered"
+caster-axle-placeholder,1,visual CAD component; NOT purchase BOM,"Placeholder pin, not a hardware specification"

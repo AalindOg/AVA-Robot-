@@ -1,0 +1,14 @@
+{
+  "part_instances": 38,
+  "all_brep_valid": true,
+  "assembly_dimensions_mm": [
+    232.13721109859947,
+    147.40597860403645,
+    394.4928550186492
+  ],
+  "collision_threshold_mm3": 0.5,
+  "tested_pairs": 71,
+  "collisions": [],
+  "errors": [],
+  "status": "exterior reconstruction; NOT PRINT OR HARDWARE FIT VALIDATED"
+}

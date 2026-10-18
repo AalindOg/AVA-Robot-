@@ -7,3 +7,8 @@ server/models/
 **/__pycache__/
 server/venv/
 *.pyc
+
+# CAD environments and local packaging output
+**/.venv/
+cad/*.zip
+cad/reference-rebuild/*.log

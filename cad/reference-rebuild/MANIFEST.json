@@ -1,0 +1,286 @@
+{
+  "DESIGN-NOTES.md": {
+    "bytes": 3174,
+    "sha256": "e1e35d6358b773ae2244baf49e4b234d81d57caca2bf0ee5d73a73b028097567"
+  },
+  "PRINTING.md": {
+    "bytes": 2375,
+    "sha256": "aad9b5014933f057cace78fbe0d36583f8beb8e7c1b5809455c1088817bffcb1"
+  },
+  "README.md": {
+    "bytes": 4295,
+    "sha256": "fe49b3e083008757600e3957100c7c1012fa98837c18cab9d2d86397b0c1d78f"
+  },
+  "bom.csv": {
+    "bytes": 3442,
+    "sha256": "afb58f8cbfdec03fa7fc03ada02337fa4f8ea40dcf98c7fadf8eb88bef520f3f"
+  },
+  "cad/build_robot.py": {
+    "bytes": 14006,
+    "sha256": "08303b4962057bd6f652ae2fff454f3dfcc06b183efb8c3556a1d1c50e506db5"
+  },
+  "cad/compare.py": {
+    "bytes": 1290,
+    "sha256": "36ee759420f5453faffe017892863e74c4c7fae0347723f0262fcb2e12588b9e"
+  },
+  "cad/package.py": {
+    "bytes": 2387,
+    "sha256": "fea5b9c119c4c3b4a4eac1b466fcca9b830779c9f55a27e60037a7ab6bf64e6a"
+  },
+  "cad/render_robot.py": {
+    "bytes": 3841,
+    "sha256": "49b205fdf5ec09fd393b22eedd9326d0a9e58d4c3fb509aad34b1f7a99e56a08"
+  },
+  "cad/validate_meshes.py": {
+    "bytes": 2678,
+    "sha256": "310cf62c2feaf0001b4a38c8284f5b26a0bcfb0849e96d07b3dd467c344ecb3d"
+  },
+  "exports/AVA-reference-rebuild.glb": {
+    "bytes": 5717608,
+    "sha256": "2b99297679867bf012381bed98a5170d65b147f96848f77ab6a6ecc9c9faac2e"
+  },
+  "exports/AVA-reference-rebuild.gltf": {
+    "bytes": 9608678,
+    "sha256": "7028ab7173e0ed11036be91fd11839fc4f8487205a22be27e3dbcb40f28d0417"
+  },
+  "exports/AVA-reference-rebuild.step": {
+    "bytes": 19096215,
+    "sha256": "b10319874fcae816790952d923ccf03e9ca4e091c0df9524673f29b383942b32"
+  },
+  "exports/AVA-reference-rebuild.stl": {
+    "bytes": 17088884,
+    "sha256": "a18547c9fdee467bcc8c6aff3c651907a9bb6804d2496e5a01561124ab22f3ed"
+  },
+  "exports/inventory.json": {
+    "bytes": 16059,
+    "sha256": "f53efca31ffa53145e1056459601e61e5644ebf2d20a1d0e208b43c380a541dd"
+  },
+  "exports/mesh-validation.json": {
+    "bytes": 10175,
+    "sha256": "587d3ff162a6b75caa64a6509d42f72c7d927c9f039ca4e96a476a3173c1f0fe"
+  },
+  "exports/parts/antenna-inlay-left.stl": {
+    "bytes": 20684,
+    "sha256": "01ef84c673830073f35c88096af4962cab268e3a0ec9eb0d5104d587ad8d21ba"
+  },
+  "exports/parts/antenna-inlay-right.stl": {
+    "bytes": 20684,
+    "sha256": "1cd9fb87e050e6a0ae89dee150a0f81ee46d0f64f46fd615c27edb697e87b64a"
+  },
+  "exports/parts/antenna-left.stl": {
+    "bytes": 41484,
+    "sha256": "d51570de70e45f01ece5ce2fc4fb4a282e3acf54ae83c6107a04c512e26e625d"
+  },
+  "exports/parts/antenna-right.stl": {
+    "bytes": 41484,
+    "sha256": "0b16c260d9efe337bfad7c56d2f67859e4af6d6fe599d9533f41a652ee40adc3"
+  },
+  "exports/parts/body-front-shell.stl": {
+    "bytes": 251284,
+    "sha256": "c1ad32803f353eb9afc27d90e6713fc4da311a5e26cc227acb6fa3df32e95db3"
+  },
+  "exports/parts/body-rear-shell.stl": {
+    "bytes": 170184,
+    "sha256": "f3139a7fff797b5be59bb9380f25092f32dcb0ea619ec0c3215bc0d23f873484"
+  },
+  "exports/parts/body-trim-left.stl": {
+    "bytes": 18284,
+    "sha256": "88260b400a1aa254cf359aab755e35c5f955a27b4236ac657ed59223d599949d"
+  },
+  "exports/parts/body-trim-right.stl": {
+    "bytes": 18284,
+    "sha256": "1a92d9ef6bfa879e769ac3741376277c029e62d90cca14be193e2fcbe6e870d9"
+  },
+  "exports/parts/caster-axle-placeholder.stl": {
+    "bytes": 19284,
+    "sha256": "e6b0170f41de6c19ca28f4f79a47517820ca701f871d348b766723335eb923b1"
+  },
+  "exports/parts/caster-fork.stl": {
+    "bytes": 43884,
+    "sha256": "ab62e1eac72abda0e9e87163e4d955d2c895eb8692d0b9860c460c573aee4a5c"
+  },
+  "exports/parts/caster-wheel-left.stl": {
+    "bytes": 1008884,
+    "sha256": "4b553d7a717e813e959a7d7e0072d6677390e1a363cad263bf25e93203de46f2"
+  },
+  "exports/parts/caster-wheel-right.stl": {
+    "bytes": 1008884,
+    "sha256": "37d68f3ca21b6d8eaf4ea2686af08ed90c2b5243222ec17da7dacdbaae916cfb"
+  },
+  "exports/parts/chest-sensor-backing.stl": {
+    "bytes": 19284,
+    "sha256": "92db91635979e5579b3dd0dede8d12167e6b7f73b8aa2c0a95aced92a61bdf15"
+  },
+  "exports/parts/chest-sensor-glass.stl": {
+    "bytes": 19284,
+    "sha256": "fa2d87f47ea7d090200bd37b5f37502a259f9900e98de138964458f147fb57bf"
+  },
+  "exports/parts/chest-sensor-ring.stl": {
+    "bytes": 38884,
+    "sha256": "49198c5f6bd45bdb9fdc4f7be570dc9393d55d1429a9b1ae692a3de66a4f011a"
+  },
+  "exports/parts/drive-axle-left.stl": {
+    "bytes": 19284,
+    "sha256": "32520b2e9f29f3f8906fbc6e8e154f6ef5dab1b525cfa9593b1b708842bfa453"
+  },
+  "exports/parts/drive-axle-right.stl": {
+    "bytes": 19284,
+    "sha256": "db1aaea48907c4fadf61066398276cec01c161e6605f00b25b937d97138fac30"
+  },
+  "exports/parts/head-front-bezel.stl": {
+    "bytes": 582484,
+    "sha256": "0719c36a08a218c4c4a6ae376bb222c4780e5b038dffbbebb64a8b47d95c095d"
+  },
+  "exports/parts/head-rear-shell.stl": {
+    "bytes": 618284,
+    "sha256": "4115f73fae3f0f88d125f8d1cb9633b06d5d44aa3e6dd4bb2aefcd4164ae1c26"
+  },
+  "exports/parts/hub-cap-left.stl": {
+    "bytes": 261784,
+    "sha256": "e8d3c113ef54c0068b114eeb62a4220beae58f89a19af3c1087d0ba7010fe7fd"
+  },
+  "exports/parts/hub-cap-right.stl": {
+    "bytes": 261784,
+    "sha256": "31e15e56a17cb6370b7dd8e00ff270b0360247f7a6db620c905a538360448e1b"
+  },
+  "exports/parts/hub-left.stl": {
+    "bytes": 98684,
+    "sha256": "cb34292db8b68ba6f42305f1381acf75e40dec0fce977df20cc1d0bc2ca286a3"
+  },
+  "exports/parts/hub-right.stl": {
+    "bytes": 98684,
+    "sha256": "a9381c687ed4ef0649493169cab85c5c20fa9234ad3e421ed8c78141c63bb5ce"
+  },
+  "exports/parts/screen-placeholder.stl": {
+    "bytes": 20684,
+    "sha256": "1a9db9da869a7c0bd3cbf843263230c6996b063bb14b96d9672d89a9c635e2e6"
+  },
+  "exports/parts/sensor-lens.stl": {
+    "bytes": 19284,
+    "sha256": "edee9f6d309be59092fa38635ef6d518ae7348989a54ce374b87a3e97085ab05"
+  },
+  "exports/parts/sensor-small.stl": {
+    "bytes": 19284,
+    "sha256": "e7fefcade3c4231546492bcfcd0ffdc8e9c0bdb61bf8cf0bdccd1b2f184848c1"
+  },
+  "exports/parts/side-pod-left.stl": {
+    "bytes": 20684,
+    "sha256": "79dd6c6e90698d0c027fb30bdd096fd24e5f4c86b2eca08ebc9fdc78cd8283ff"
+  },
+  "exports/parts/side-pod-right.stl": {
+    "bytes": 20684,
+    "sha256": "018a88ef6c5278f2d209dde5f578903145e4bf110e70b30a642d0d515741fd1c"
+  },
+  "exports/parts/speaker-backing-left.stl": {
+    "bytes": 19284,
+    "sha256": "6945d82fd7158bf1c7d109f1d8c0852e819504b89bca60d02ff42599173ff427"
+  },
+  "exports/parts/speaker-backing-right.stl": {
+    "bytes": 19284,
+    "sha256": "400744810483723a2e5857d1a411fc5630771fb9d24f6de469cdf76a97943514"
+  },
+  "exports/parts/speaker-grille-left.stl": {
+    "bytes": 3488484,
+    "sha256": "c89500201d7ebfca9390adadb4569354041dc47cc4b331815017126344bcbba8"
+  },
+  "exports/parts/speaker-grille-right.stl": {
+    "bytes": 3488484,
+    "sha256": "8614baddb6c3be97c88ada03484881e38fc02dc83bbca7de0e0436e08134ca0a"
+  },
+  "exports/parts/speaker-ring-left.stl": {
+    "bytes": 1008884,
+    "sha256": "333ad6209a5fbe706f8ce0192f1a988abbc2c5c0605628b542b673683b68291b"
+  },
+  "exports/parts/speaker-ring-right.stl": {
+    "bytes": 1008884,
+    "sha256": "2042de6a6226596e606af3708ccee52e72ae76de70ab4749ba286ffde9e65da6"
+  },
+  "exports/parts/status-indicator.stl": {
+    "bytes": 19284,
+    "sha256": "44ca424e1e9d26fa6803322568ba8eb1faf22401af9d0c5e294d40e4ca1f554e"
+  },
+  "exports/parts/tire-left.stl": {
+    "bytes": 1345684,
+    "sha256": "e98802df48446d03df0e0e4157b5ef79eaf497ad8812e45ffc680792d040b4e7"
+  },
+  "exports/parts/tire-right.stl": {
+    "bytes": 1345684,
+    "sha256": "c2c8cf52e5ab9e2dd785214c463ac5d7d8d2368c41b342b1118100b036efffb0"
+  },
+  "exports/parts/top-sensor-puck.stl": {
+    "bytes": 546384,
+    "sha256": "7c19229b572eb755413ab771378273a7940cb01dd9bab3d9b9a5b71a3ea5244d"
+  },
+  "exports/validation.json": {
+    "bytes": 325,
+    "sha256": "b2410186ff4bceaa207e9450a5187c79bbc3e701d117221417f9b3f6dd051914"
+  },
+  "images/front.png": {
+    "bytes": 137921,
+    "sha256": "d3bed59125d3fe5990bdd75e93afef49d48d0a4cd1e1189c64d83a6dbf40c99a"
+  },
+  "images/preview.jpg": {
+    "bytes": 178995,
+    "sha256": "d857b318d95d88b1e9c535e4d7e5f4603fee1a66c36d647404db17f5beba2d99"
+  },
+  "images/rear.png": {
+    "bytes": 188989,
+    "sha256": "20e96081e4aadbf6fec4b8ad694dc598a4e70ea8805ec3f1f555b83d80544c02"
+  },
+  "images/reference-comparison.jpg": {
+    "bytes": 211916,
+    "sha256": "5639f11123f85b6a6219c8792b425c49b71b50b24b35c7027a643288ca5dc499"
+  },
+  "images/side.png": {
+    "bytes": 143525,
+    "sha256": "97c1fd2f4aeb87740f276c28b68a85362d4119b4177f262fd246a1fc1008f329"
+  },
+  "images/three-quarter.png": {
+    "bytes": 216241,
+    "sha256": "01350cc497724191339de151c7a18d4870f8e543c2f01e25ecb4b3d5a24e1cc4"
+  },
+  "images/top.png": {
+    "bytes": 219860,
+    "sha256": "8cb9bd842b4886600a62b6ba539f7b766346f1f99c09f25bc677844d0f4a5c24"
+  },
+  "references/angle.jpg": {
+    "bytes": 30997,
+    "sha256": "620c8f36d89c4caece66b7af4267189c79904e8695b77e7875f7126be686bd44"
+  },
+  "references/earlier-cutaway.jpg": {
+    "bytes": 32945,
+    "sha256": "bf5daea15cc615aa6df8edd71cd8204ee96f638db48aec0b5cb312dec612d61f"
+  },
+  "references/front.jpg": {
+    "bytes": 25701,
+    "sha256": "8009bc56f0e400d210936ed11ed1404b8a841ecec4f05bde38a00f5cc6bdfafa"
+  },
+  "references/head.jpg": {
+    "bytes": 76704,
+    "sha256": "91829bcd2d404fc8cb6fa93225c7534c5a6df9089ddc40fbd376269594f149e9"
+  },
+  "references/inside.jpg": {
+    "bytes": 75799,
+    "sha256": "1d2f8d259e5cbc865b921c08e40d7e101af1bac3f3a60a2bd0b3eab550a81156"
+  },
+  "references/original-references.jpg": {
+    "bytes": 263797,
+    "sha256": "ad5eac8d1a32d4b1ed6eaea4100bcaec24e402eb75eedd04552972b428ac060f"
+  },
+  "references/provenance.json": {
+    "bytes": 1028,
+    "sha256": "a81c997240d57eb4ab60e67aa99dae807a44a46b00af4397210ff505abc77a2e"
+  },
+  "references/under.jpg": {
+    "bytes": 44422,
+    "sha256": "ab9514e59e9c7dfd5a90f60a2354ec3e7894ebb2688a42b4c87cf3867dcb3948"
+  },
+  "references/video-contact-sheet.jpg": {
+    "bytes": 472904,
+    "sha256": "b796dcff18c285702dddc1050d340ab4972548a1ff8f8c013d63613c37cca063"
+  },
+  "requirements.txt": {
+    "bytes": 51,
+    "sha256": "f128421cb2689725b5f8a8f3752f16e9b80547539440a79a381c678a5599794e"
+  }
+}

@@ -1,0 +1,8 @@
+# Preserve exported CAD bytes; review source scripts rather than generated dumps.
+*.step -text -diff linguist-generated=true
+*.stl -text -diff linguist-generated=true
+*.glb -text -diff linguist-generated=true
+*.gltf -text -diff linguist-generated=true
+cad/reference-rebuild/exports/*.json linguist-generated=true
+cad/reference-rebuild/MANIFEST.json linguist-generated=true
+cad/reference-rebuild/bom.csv -text whitespace=cr-at-eol

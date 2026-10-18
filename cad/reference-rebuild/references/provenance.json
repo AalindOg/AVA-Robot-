@@ -1,0 +1,15 @@
+{
+  "purpose": "Reference images selected by Aalind for the AVA exterior reconstruction. These are references, not renders of the newly generated model.",
+  "source": "Surviving copies from earlier robot-reel project assets. Earlier asset scripts recorded copying supplied image files; the expired cache originals cannot now be hash-compared.",
+  "images": [
+    {"name": "front.jpg", "view": "assembled front"},
+    {"name": "angle.jpg", "view": "assembled three-quarter"},
+    {"name": "inside.jpg", "view": "interior cutaway"},
+    {"name": "under.jpg", "view": "underside"},
+    {"name": "head.jpg", "view": "head detail"},
+    {"name": "earlier-cutaway.jpg", "view": "earlier cutaway; not an integrated hardware specification"}
+  ],
+  "clips_reviewed": ["orbit", "explode", "motor", "board", "battery", "assemble"],
+  "sampled_frames_per_clip": 3,
+  "rights": "Original creator and license of the supplied reference imagery are not independently established. Project licensing does not relicense these reference assets."
+}
